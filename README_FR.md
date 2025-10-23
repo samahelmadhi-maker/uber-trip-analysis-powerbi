@@ -77,4 +77,3 @@ Ce projet démontre ma capacité à :
 -   Communiquer efficacement des résultats complexes à des parties prenantes non techniques.
 
 
-## 📁 Structure du Dépôt
