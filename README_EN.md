@@ -76,5 +76,3 @@ This dashboard showcases my ability to:
 - Build intuitive, interactive visualizations.
 - Communicate complex findings clearly to non-technical audiences.
 
-
-## 📁 Repository Structure
